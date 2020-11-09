@@ -3,12 +3,11 @@
     font-size: medium;
 }
 body {
-    background-color: lightslategray;
+    background-color: rgba(129, 120, 120, 0.555);
 }
 main {
-    background-color: darkslategrey;
+    background-color: rgb(230, 230, 230);
     width: 500px;
     margin:auto;
     padding: 10px;
-    box-shadow:  3px 3px 5px whitesmoke;
-}
+    }
